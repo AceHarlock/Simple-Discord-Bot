@@ -1,4 +1,5 @@
-#How to Make a Discord Bot in the Developer Portal?
+# How to Make a Discord Bot in the Developer Portal?
+
 Before you can dive into any Python code to handle events and create exciting automations, you need to first create a few Discord components:
 
 1. An account
