@@ -12,7 +12,7 @@ Once you’ve created all of these components, you’ll tie them together by reg
 
 You can get started by heading to Discord’s Developer Portal.
 
-<b>Creating a Discord Account</b>
+<h2>Creating a Discord Account</h2>
 
 The first thing you’ll see is a landing page where you’ll need to either login, if you have an existing account, or create a new account:
 
@@ -21,7 +21,7 @@ The first thing you’ll see is a landing page where you’ll need to either log
 If you need to create a new account, then click on the Register button below Login and enter your account information.
 Once you’re finished, you’ll be redirected to the Developer Portal home page, where you’ll create your application.
 
-<b>Creating Application</b>
+<h2>Creating Application</h2>
 An application allows you to interact with Discord’s APIs by providing authentication tokens, designating permissions, and so on.
 
 To create a new application, select New Application:
@@ -40,7 +40,7 @@ Keep in mind that any program that interacts with Discord APIs requires a Discor
 
 However, since this tutorial is about how to make a Discord bot, navigate to the Bot tab on the left-hand navigation list.
 
-<b>Creating a Bot</b>
+<h2>Creating a Bot</h2>
 
 As you learned in the previous sections, a bot user is one that listens to and automatically reacts to certain events and commands on Discord.
 
