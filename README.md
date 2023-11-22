@@ -264,3 +264,5 @@ $ pip install -U discord.py
 
 And then, run bot.py
 python bot.py
+
+Now, you can enjoy your bot :)
